@@ -6,5 +6,6 @@ Nice sentence animation idea for mobile splash screens using react-native
 https://snack.expo.dev/@ravali121/a49e48
 
 # Demo
-https://user-images.githubusercontent.com/17731766/229339321-9f5e2b86-e52b-4d2f-921e-4f57ee70d538.mp4
+
+![SmartSelect_20230402_004252_Expo Go](https://user-images.githubusercontent.com/17731766/229339593-07d208ec-4550-461b-8cdd-a75b1479b8f6.gif)
 
